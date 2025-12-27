@@ -1,4 +1,6 @@
 # Project_Sprint8_CD_2025
+📌 Name Project: Urban Transport Market Analysis with SQL
+
 🔍 Problem Description
 
 This project addresses the need to understand urban transportation market dynamics, analyzing how external factors such as weather conditions affect trip duration and taxi demand. The goal is to generate data-driven insights to support strategic decision-making for launching a new ride-hailing application.
